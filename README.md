@@ -1,4 +1,4 @@
-# Boundary-Value-Problems
+# Boundary Value Problems
 Numerical solutions to various boundary value problems. bvp1.m solves 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=-u''=f,\:\:\:x\in(0,1)\:\:\:u(0)=u_a,\:\:\:u(1)=u_b" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-u''=f,\:\:\:x\in(0,1)\:\:\:u(0)=u_a,\:\:\:u(1)=u_b" title="-u''=f,\:\:\:x\in(0,1)\:\:\:u(0)=u_a,\:\:\:u(1)=u_b" /></a>
